@@ -1,3 +1,4 @@
-# CourseProject
+# Movie bookmarking and recommendation system on synopsis similarity
+## Intelligent Browsing
 
-Please fork this repository and paste the github link of your fork on Microsoft CMT. Detailed instructions are on Coursera under Week 1: Course Project Overview/Week 9 Activities.
+By: Ardel Kardi (pnkardi2) and Putra Firmansyah (pdf2)
